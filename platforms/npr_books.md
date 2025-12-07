@@ -15,3 +15,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['Nightmare Obscura' author explains how to take control of your dreams](https://www.npr.org/2025/11/20/nx-s1-5609173/nightmare-obscura-author-explains-how-to-take-control-of-your-dreams)
 *   ['Reflections in Black' celebrates history of Black photography with expanded issue](https://www.npr.org/2025/11/20/nx-s1-5397972/reflections-in-black-deborah-willis)
 *   [Here are the winners of the 2025 National Book Awards](https://www.npr.org/2025/11/20/nx-s1-5607997/here-are-the-winners-of-the-2025-national-book-awards)
+
+
+## Updates (2025-12-07)
+*   [Skip the holiday parties. NPR's Books We Love offers many fantastic recommendations](https://www.npr.org/2025/12/06/nx-s1-5630100/skip-the-holiday-parties-nprs-books-we-love-offers-many-fantastic-recommendations)
+*   [Libraries and museums get federal funding back after Trump cuts](https://www.npr.org/2025/12/04/nx-s1-5633347/libraries-museums-federal-funding-imls-trump-cuts)
+*   [Vern Yip's secret to better home decor? Stop scrolling for inspiration](https://www.npr.org/2025/12/04/nx-s1-5580582/vern-yips-secret-to-better-home-decor-stop-scrolling-for-inspiration)
+*   [Here are 8 novels NPR staff and critics loved in 2025](https://www.npr.org/2025/12/03/nx-s1-5609215/best-books-2025-fiction-what-to-read)
+*   [A dying woman chooses friends over her husband in 'Some Bright Nowhere'](https://www.npr.org/2025/12/02/nx-s1-5609169/some-bright-nowhere-review-ann-packer)
+*   [Books out this week come from Nobel winners and independent presses](https://www.npr.org/2025/12/02/nx-s1-5627110/new-books-this-week)
+*   [In a new novel, a dream house becomes an obsession](https://www.npr.org/2025/11/30/nx-s1-5550268/in-a-new-novel-a-dream-house-becomes-an-obsession)
+*   [In case you need more Harry Potter: an audiobook with a full-cast recording is out](https://www.npr.org/2025/11/30/nx-s1-5620803/in-case-you-need-more-harry-potter-an-audiobook-with-a-full-cast-recording-is-out)
