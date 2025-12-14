@@ -26,3 +26,16 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Books out this week come from Nobel winners and independent presses](https://www.npr.org/2025/12/02/nx-s1-5627110/new-books-this-week)
 *   [In a new novel, a dream house becomes an obsession](https://www.npr.org/2025/11/30/nx-s1-5550268/in-a-new-novel-a-dream-house-becomes-an-obsession)
 *   [In case you need more Harry Potter: an audiobook with a full-cast recording is out](https://www.npr.org/2025/11/30/nx-s1-5620803/in-case-you-need-more-harry-potter-an-audiobook-with-a-full-cast-recording-is-out)
+
+
+## Updates (2025-12-14)
+*   [If the holidays are stressing you out, remember: everything is optional](https://www.npr.org/2025/12/12/nx-s1-5604684/if-the-holidays-are-stressing-you-out-remember-everything-is-optional)
+*   [Was Michael Jordan NBA's GOAT? Phil Jackson reflects on the 'Masters of the Game'](https://www.npr.org/2025/12/11/nx-s1-5639932/phil-jackson-sam-smith-nba-masters-of-the-game)
+*   [Feast your eyes on these 10 cookbooks from 2025](https://www.npr.org/2025/12/11/nx-s1-5609216/best-cookbooks-2025)
+*   [New books coming in December tell tales of the sea, colonialism and midlife](https://www.npr.org/2025/12/10/nx-s1-5638437/new-books-december)
+*   [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis)
+*   [Author Sophie Kinsella, who penned the 'Shopaholic' books, has died at 55](https://www.npr.org/2025/12/10/nx-s1-5639788/sophie-kinsella-dead-confessions-of-a-shopaholic)
+*   [Believe it or not, this book makes taxes fascinating](https://www.npr.org/2025/12/09/nx-s1-5634506/taxes-the-price-of-democracy)
+*   ['Placeless' author traces the roots and realities of mass homelessness in America](https://www.npr.org/2025/12/08/nx-s1-5637259/placeless-author-traces-the-roots-and-realities-of-mass-homelessness-in-america)
+*   [Maureen Corrigan's 10 favorite books of 2025 — with plenty for nonfiction lovers](https://www.npr.org/2025/12/08/nx-s1-5634019/best-books-2025-maureen-corrigan)
+*   [A royal romance novel with the British throne at stake](https://www.npr.org/2025/12/07/nx-s1-5600903/a-royal-romance-novel-with-the-british-throne-at-stake)
