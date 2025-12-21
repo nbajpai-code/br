@@ -39,3 +39,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['Placeless' author traces the roots and realities of mass homelessness in America](https://www.npr.org/2025/12/08/nx-s1-5637259/placeless-author-traces-the-roots-and-realities-of-mass-homelessness-in-america)
 *   [Maureen Corrigan's 10 favorite books of 2025 — with plenty for nonfiction lovers](https://www.npr.org/2025/12/08/nx-s1-5634019/best-books-2025-maureen-corrigan)
 *   [A royal romance novel with the British throne at stake](https://www.npr.org/2025/12/07/nx-s1-5600903/a-royal-romance-novel-with-the-british-throne-at-stake)
+
+
+## Updates (2025-12-21)
+*   [Here are some fantastic nonfiction 'Books We Love' recommendations from NPR staff](https://www.npr.org/2025/12/20/nx-s1-5634702/here-are-some-fantastic-nonfiction-books-we-love-recommendations-from-npr-staff)
+*   [After John le Carré's death, his son faced the 'daunting' task of reviving George Smiley](https://www.npr.org/2025/12/19/nx-s1-5648326/after-john-le-carres-death-his-son-faced-the-daunting-task-of-reviving-george-smiley)
+*   [From toddlers to teens, here's your one-stop shop for young readers](https://www.npr.org/2025/12/18/nx-s1-5642947/best-kids-books-what-to-read-2025)
+*   [Mahmood Mamdani on how Uganda's history shaped his belonging — and his son's moment](https://www.npr.org/2025/12/16/nx-s1-5600099/mahmood-mamdani-father-zohran-uganda-new-york)
+*   [Zadie Smith's heads up to young people: 'You are absolutely going to become old'](https://www.npr.org/2025/12/15/nx-s1-5642662/zadie-smith-dead-and-alive)
+*   [All about character: Jane Austen fans on their favorites](https://www.npr.org/2025/12/15/nx-s1-5643029/jane-austen-fans-favorites-250th-anniversary)
+*   [Books We Love: NPR staff's top non-fiction picks of the year](https://www.npr.org/2025/12/14/nx-s1-5634701/books-we-love-npr-staffs-top-non-fiction-picks-of-the-year)
