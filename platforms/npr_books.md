@@ -49,3 +49,16 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Zadie Smith's heads up to young people: 'You are absolutely going to become old'](https://www.npr.org/2025/12/15/nx-s1-5642662/zadie-smith-dead-and-alive)
 *   [All about character: Jane Austen fans on their favorites](https://www.npr.org/2025/12/15/nx-s1-5643029/jane-austen-fans-favorites-250th-anniversary)
 *   [Books We Love: NPR staff's top non-fiction picks of the year](https://www.npr.org/2025/12/14/nx-s1-5634701/books-we-love-npr-staffs-top-non-fiction-picks-of-the-year)
+
+
+## Updates (2025-12-28)
+*   [Rediscovering delight in the kitchen when cooking feels like a burden](https://www.npr.org/2025/12/27/nx-s1-5534433/rediscovering-delight-in-the-kitchen-when-cooking-feels-like-a-burden)
+*   [Looking for more fiction books to read? NPR's Books We Love has suggestions](https://www.npr.org/2025/12/27/nx-s1-5635585/looking-for-more-fiction-books-to-read-nprs-books-we-love-has-suggestions)
+*   ['The Rest of Our Lives' takes readers on a midlife crisis road trip](https://www.npr.org/2025/12/26/nx-s1-5655961/the-rest-of-our-lives-midlife-crisis-ben-markovitz)
+*   [Hunker down with these 13 mysteries and thrillers from 2025](https://www.npr.org/2025/12/26/nx-s1-5653356/best-mysteries-thrillers-2025)
+*   [Springsteen's label was about to drop him. Then came 'Born to Run'](https://www.npr.org/2025/12/25/nx-s1-5648368/springsteens-label-was-about-to-drop-him-then-came-born-to-run)
+*   ['Twice' author Mitch Albom asks: What if you could relive any moment of your life?](https://www.npr.org/2025/12/24/nx-s1-5648362/twice-author-mitch-albom-asks-what-if-you-could-relive-any-moment-of-your-life)
+*   [A classic Italian cookbook finally gets a full English translation](https://www.npr.org/2025/12/23/nx-s1-5646491/a-classic-italian-cookbook-finally-gets-a-full-english-translation)
+*   [The best audiobooks of 2025](https://www.npr.org/2025/12/23/nx-s1-5645996/the-best-audiobooks-of-2025)
+*   [10 books to help you understand America as its 250th birthday approaches](https://www.npr.org/2025/12/22/nx-s1-5646641/best-books-us-history-america)
+*   [When a loved one dies, where do they go? A new kids' book suggests 'They Walk On'](https://www.npr.org/2025/12/21/nx-s1-5511414/kevin-maillard-rafael-lopez-and-they-walk-on)
