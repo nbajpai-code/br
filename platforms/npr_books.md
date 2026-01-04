@@ -62,3 +62,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [The best audiobooks of 2025](https://www.npr.org/2025/12/23/nx-s1-5645996/the-best-audiobooks-of-2025)
 *   [10 books to help you understand America as its 250th birthday approaches](https://www.npr.org/2025/12/22/nx-s1-5646641/best-books-us-history-america)
 *   [When a loved one dies, where do they go? A new kids' book suggests 'They Walk On'](https://www.npr.org/2025/12/21/nx-s1-5511414/kevin-maillard-rafael-lopez-and-they-walk-on)
+
+
+## Updates (2026-01-04)
+*   [Already tired of winter? This new book could change your perspective](https://www.npr.org/2026/01/03/nx-s1-5566036/already-tired-of-winter-this-new-book-could-change-your-perspective)
+*   [Making a resolution to read more this year? Consider 1992's 'Waiting to Exhale'](https://www.npr.org/2026/01/01/nx-s1-5589856/making-a-resolution-to-read-more-this-year-consider-1992s-waiting-to-exhale)
+*   [What being around death taught this hospital chaplain about life](https://www.npr.org/2025/12/30/nx-s1-5637461/death-anxiety-grief-mortality)
+*   [Just because she won a Nobel doesn't mean Malala didn't break some rules in college](https://www.npr.org/2025/12/30/nx-s1-5651975/just-because-she-won-a-nobel-doesnt-mean-malala-didnt-break-some-rules-in-college)
+*   [A critic's year-end 'ghost list' wanders from Italian movie sets to 'Demon Hunters'](https://www.npr.org/2025/12/30/nx-s1-5651980/a-critics-year-end-ghost-list-wanders-from-italian-movie-sets-to-kpop-demon-hunters)
+*   [Books We Love: Working with Toni Morrison](https://www.npr.org/2025/12/29/nx-s1-5460873/books-we-love-working-with-toni-morrison)
+*   [Genre fiction and female authors top U.S. libraries' most-borrowed lists in 2025](https://www.npr.org/2025/12/29/nx-s1-5645098/libraries-most-borrowed-books-2025)
+*   [Books We Love: romance reads](https://www.npr.org/2025/12/28/nx-s1-5648273/books-we-love-romance-reads)
