@@ -73,3 +73,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Books We Love: Working with Toni Morrison](https://www.npr.org/2025/12/29/nx-s1-5460873/books-we-love-working-with-toni-morrison)
 *   [Genre fiction and female authors top U.S. libraries' most-borrowed lists in 2025](https://www.npr.org/2025/12/29/nx-s1-5645098/libraries-most-borrowed-books-2025)
 *   [Books We Love: romance reads](https://www.npr.org/2025/12/28/nx-s1-5648273/books-we-love-romance-reads)
+
+
+## Updates (2026-01-11)
+*   [10 books we're looking forward to in early 2026](https://www.npr.org/2026/01/08/nx-s1-5645847/new-books-reading-list-2026)
+*   ['American Reich' author details a national surge in bigotry and white supremacy](https://www.npr.org/2026/01/07/nx-s1-5669386/american-reich-author-details-a-national-surge-in-bigotry-and-white-supremacy)
+*   [A 200-year-old book distributor is closing. Here's what that means for public libraries](https://www.npr.org/2026/01/07/nx-s1-5668426/libraries-books-distributor-closing)
+*   [Put these 12 eye-opening books on your 2026 reading list](https://www.npr.org/2026/01/06/nx-s1-5667239/best-nonfiction-2025)
+*   ['Everything I knew burned down around me': A journalist looks back on LA's fires](https://www.npr.org/2026/01/05/nx-s1-5666904/firestorm-jacob-soboroff-palisades-eaton)
+*   [Feeling cooped up? Get out of town with this delightful literary road trip](https://www.npr.org/2026/01/05/nx-s1-5666903/the-rest-of-our-lives-review-ben-markovits)
+*   ['The Definitions' novel takes a haunting look at identity, language and control](https://www.npr.org/2026/01/04/nx-s1-5398035/the-definitions-novel-takes-a-haunting-look-at-identity-language-and-control)
