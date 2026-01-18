@@ -83,3 +83,11 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['Everything I knew burned down around me': A journalist looks back on LA's fires](https://www.npr.org/2026/01/05/nx-s1-5666904/firestorm-jacob-soboroff-palisades-eaton)
 *   [Feeling cooped up? Get out of town with this delightful literary road trip](https://www.npr.org/2026/01/05/nx-s1-5666903/the-rest-of-our-lives-review-ben-markovits)
 *   ['The Definitions' novel takes a haunting look at identity, language and control](https://www.npr.org/2026/01/04/nx-s1-5398035/the-definitions-novel-takes-a-haunting-look-at-identity-language-and-control)
+
+
+## Updates (2026-01-18)
+*   [Julian Barnes says he's enjoying himself, but that 'Departure(s)' is his last book](https://www.npr.org/2026/01/15/nx-s1-5677335/julian-barnes-departures)
+*   [Can't decide what to read next? Here are 20 recommendations for your book club](https://www.npr.org/2026/01/14/nx-s1-5672424/best-book-club-2025)
+*   [Keep an eye out for these new books from big names in January](https://www.npr.org/2026/01/13/nx-s1-5675908/new-books-george-saunders-jennette-mccurdy-julian-barnes)
+*   ['Fly, Wild Swans' is Jung Chang's painfully personal tribute to her mother](https://www.npr.org/2026/01/13/g-s1-99142/fly-wild-swans-jung-chang-review-china)
+*   ['The God of the Woods' novelist Liz Moore describes the rare 'flow state' of writing](https://www.npr.org/2026/01/12/nx-s1-5674866/the-god-of-the-woods-novelist-liz-moore-describes-the-rare-flow-state-of-writing)
