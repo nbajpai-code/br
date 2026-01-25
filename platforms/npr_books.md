@@ -91,3 +91,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Keep an eye out for these new books from big names in January](https://www.npr.org/2026/01/13/nx-s1-5675908/new-books-george-saunders-jennette-mccurdy-julian-barnes)
 *   ['Fly, Wild Swans' is Jung Chang's painfully personal tribute to her mother](https://www.npr.org/2026/01/13/g-s1-99142/fly-wild-swans-jung-chang-review-china)
 *   ['The God of the Woods' novelist Liz Moore describes the rare 'flow state' of writing](https://www.npr.org/2026/01/12/nx-s1-5674866/the-god-of-the-woods-novelist-liz-moore-describes-the-rare-flow-state-of-writing)
+
+
+## Updates (2026-01-25)
+*   [A wintry mix: 12 reading recommendations to get you through the storm](https://www.npr.org/2026/01/24/nx-s1-5686592/snow-winter-reading-recommendations)
+*   [The influence of the sleeper hit novel 'The Correspondent'](https://www.npr.org/2026/01/22/nx-s1-5677630/the-influence-of-the-sleeper-hit-novel-the-correspondent)
+*   ['The White Hot' asks: If men can go find themselves, why can't women?](https://www.npr.org/2026/01/22/nx-s1-5684149/quiara-alegria-hudes-the-white-hot)
+*   ['Even the Dead' wraps up John Banville's smart, moody mystery series](https://www.npr.org/2026/01/22/nx-s1-5683964/even-the-dead-review-john-banville)
+*   [Jennette McCurdy follows up bestselling memoir with 'Half His Age,' her fiction debut](https://www.npr.org/2026/01/21/nx-s1-5520805/jennette-mccurdy-follows-up-bestselling-memoir-with-half-his-age-her-fiction-debut)
+*   [Poet Rachel Eliza Griffiths says she won't let pain be 'the engine that drives the ship'](https://www.npr.org/2026/01/20/nx-s1-5677512/rachel-eliza-griffiths-salman-rushdie-flower-bearers)
+*   [Martin Luther King Jr. would be inspired by today's activism, author says](https://www.npr.org/2026/01/19/nx-s1-5677279/martin-luther-king-jr-would-be-inspired-by-todays-activism-author-says)
