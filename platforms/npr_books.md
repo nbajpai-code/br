@@ -101,3 +101,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Jennette McCurdy follows up bestselling memoir with 'Half His Age,' her fiction debut](https://www.npr.org/2026/01/21/nx-s1-5520805/jennette-mccurdy-follows-up-bestselling-memoir-with-half-his-age-her-fiction-debut)
 *   [Poet Rachel Eliza Griffiths says she won't let pain be 'the engine that drives the ship'](https://www.npr.org/2026/01/20/nx-s1-5677512/rachel-eliza-griffiths-salman-rushdie-flower-bearers)
 *   [Martin Luther King Jr. would be inspired by today's activism, author says](https://www.npr.org/2026/01/19/nx-s1-5677279/martin-luther-king-jr-would-be-inspired-by-todays-activism-author-says)
+
+
+## Updates (2026-02-01)
+*   ['Getting to Reparations' argues a clear path and legal strategy to atone for slavery](https://www.npr.org/2026/01/31/nx-s1-5534453/getting-to-reparations-argues-a-clear-path-and-legal-strategy-to-atone-for-slavery)
+*   [George Saunders' 'Vigil' is a brief and bumpy return to the Bardo](https://www.npr.org/2026/01/29/nx-s1-5691438/george-saunders-vigil-review)
+*   [Former NBC producer tells her own story about Matt Lauer in 'Unspeakable Things'](https://www.npr.org/2026/01/29/nx-s1-5691662/brooke-nevils-matt-lauers-unspeakable-things)
+*   ['Fireworks' wins Caldecott, Newbery is awarded to 'All the Blues in the Sky'](https://www.npr.org/2026/01/27/nx-s1-5689882/caldecott-newbery-award-winners)
+*   [How did Tucker Carlson become one of the far right's most influential voices?](https://www.npr.org/2026/01/27/nx-s1-5688915/tucker-carlson-hated-by-all-the-right-people-jason-zengerle)
+*   [A kids' guide to phone-free fun, from the author of 'The Anxious Generation'](https://www.npr.org/2026/01/27/nx-s1-5686531/anxious-generation-jonathan-haidt-screen-time-amazing-generation)
+*   [How a 1984 NYC subway shooting let to the politics of resentment we see today](https://www.npr.org/2026/01/26/nx-s1-5688792/how-a-1984-nyc-subway-shooting-let-to-the-politics-of-resentment-we-see-today)
+*   [Julian Barnes' playful new book is also his 'official departure'](https://www.npr.org/2026/01/26/nx-s1-5686512/departures-julian-barnes)
+*   [In 'The Starseekers', magic, mystery and romance collide with timelines](https://www.npr.org/2026/01/25/nx-s1-5575153/in-the-starseekers-magic-mystery-and-romance-collide-with-timelines)
