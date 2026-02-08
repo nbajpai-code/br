@@ -113,3 +113,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [How a 1984 NYC subway shooting let to the politics of resentment we see today](https://www.npr.org/2026/01/26/nx-s1-5688792/how-a-1984-nyc-subway-shooting-let-to-the-politics-of-resentment-we-see-today)
 *   [Julian Barnes' playful new book is also his 'official departure'](https://www.npr.org/2026/01/26/nx-s1-5686512/departures-julian-barnes)
 *   [In 'The Starseekers', magic, mystery and romance collide with timelines](https://www.npr.org/2026/01/25/nx-s1-5575153/in-the-starseekers-magic-mystery-and-romance-collide-with-timelines)
+
+
+## Updates (2026-02-08)
+*   [Anne Fadiman discusses her book, 'Frog And Other Essays'](https://www.npr.org/2026/02/07/nx-s1-5602916/anne-fadiman-discusses-her-book-frog-and-other-essays)
+*   [A grieving man's short-term job takes a turn in novel, 'Eradication'](https://www.npr.org/2026/02/07/nx-s1-5608159/a-grieving-mans-short-term-job-takes-a-turn-in-novel-eradication)
+*   [How Rupert Murdoch created a media empire -- and 'broke' his own family](https://www.npr.org/2026/02/03/nx-s1-5693899/bonfire-of-the-murdochs-rupert-fox-news-gabriel-sherman)
+*   [You already know the song — now, 'The One About the Blackbird' is also a picture book](https://www.npr.org/2026/02/01/nx-s1-5602904/the-one-about-the-blackbird-melanie-florence-matt-james)
