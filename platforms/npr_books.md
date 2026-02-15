@@ -120,3 +120,11 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [A grieving man's short-term job takes a turn in novel, 'Eradication'](https://www.npr.org/2026/02/07/nx-s1-5608159/a-grieving-mans-short-term-job-takes-a-turn-in-novel-eradication)
 *   [How Rupert Murdoch created a media empire -- and 'broke' his own family](https://www.npr.org/2026/02/03/nx-s1-5693899/bonfire-of-the-murdochs-rupert-fox-news-gabriel-sherman)
 *   [You already know the song — now, 'The One About the Blackbird' is also a picture book](https://www.npr.org/2026/02/01/nx-s1-5602904/the-one-about-the-blackbird-melanie-florence-matt-james)
+
+
+## Updates (2026-02-15)
+*   [What makes a good book-to-film adaptation? We have thoughts (and favorites)](https://www.npr.org/2026/02/14/nx-s1-5706661/wuthering-heights-adaptations-movies-little-women-nickel-boys-starship-troopers-blade-runner)
+*   [February may be short on days -- but it boasts a long list of new books](https://www.npr.org/2026/02/11/nx-s1-5708701/new-books-michael-pollan-lauren-groff-tayari-jones)
+*   [A daughter reexamines her own family story in 'The Mixed Marriage Project'](https://www.npr.org/2026/02/10/nx-s1-5704334/dorothy-roberts-the-mixed-marriage-project)
+*   ['Dizzy' author recounts a decade of being marooned by chronic illness](https://www.npr.org/2026/02/09/nx-s1-5704301/dizzy-book-review-rachel-weaver)
+*   ['End of Days' recalls the violent 1992 Ruby Ridge confrontation in Idaho](https://www.npr.org/2026/02/09/nx-s1-5707200/end-of-days-recalls-the-violent-1992-ruby-ridge-confrontation-in-idaho)
