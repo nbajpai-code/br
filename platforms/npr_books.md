@@ -128,3 +128,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [A daughter reexamines her own family story in 'The Mixed Marriage Project'](https://www.npr.org/2026/02/10/nx-s1-5704334/dorothy-roberts-the-mixed-marriage-project)
 *   ['Dizzy' author recounts a decade of being marooned by chronic illness](https://www.npr.org/2026/02/09/nx-s1-5704301/dizzy-book-review-rachel-weaver)
 *   ['End of Days' recalls the violent 1992 Ruby Ridge confrontation in Idaho](https://www.npr.org/2026/02/09/nx-s1-5707200/end-of-days-recalls-the-violent-1992-ruby-ridge-confrontation-in-idaho)
+
+
+## Updates (2026-02-22)
+*   [Facing a mental health crisis, an NJ school pulled a beloved novel from English class](https://www.npr.org/2026/02/20/nx-s1-5708741/junot-diaz-oscar-wao-mental-health-book-bans)
+*   [Michael Pollan says AI may 'think' — but it will never be conscious](https://www.npr.org/2026/02/19/nx-s1-5713514/michael-pollan-ai-consciousness-a-world-appears)
+*   [Carla Hayden recommends books by Black authors from 2016 that resonate today](https://www.npr.org/2026/02/18/nx-s1-5703585/carla-hayden-recommends-books-by-black-authors-from-2016-that-resonate-today)
+*   [Gothic romance reaches new 'Heights' as fan communities collide](https://www.npr.org/2026/02/18/nx-s1-5717024/wuthering-heights-charli-xcx-romance-booktok)
+*   [A photojournalist details her rebellion against the Syrian regime -- and her father](https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father)
+*   [Gisèle Pelicot tells her story in 'A Hymn to Life'](https://www.npr.org/2026/02/17/nx-s1-5334546/gisele-pelicot-a-hymn-to-life-memoir)
+*   ['American Struggle' author assesses Trump's expansion of presidential power](https://www.npr.org/2026/02/16/nx-s1-5713495/american-struggle-author-assesses-trumps-expansion-of-presidential-power)
