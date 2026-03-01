@@ -138,3 +138,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [A photojournalist details her rebellion against the Syrian regime -- and her father](https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father)
 *   [Gisèle Pelicot tells her story in 'A Hymn to Life'](https://www.npr.org/2026/02/17/nx-s1-5334546/gisele-pelicot-a-hymn-to-life-memoir)
 *   ['American Struggle' author assesses Trump's expansion of presidential power](https://www.npr.org/2026/02/16/nx-s1-5713495/american-struggle-author-assesses-trumps-expansion-of-presidential-power)
+
+
+## Updates (2026-03-01)
+*   [This novel about family drama is so good you may want to re-read it immediately](https://www.npr.org/2026/02/25/nx-s1-5725493/this-is-not-about-us-allegra-goodman-review)
+*   [Years ago, novelist Tayari Jones snuck into a writing class. It changed her life](https://www.npr.org/2026/02/24/nx-s1-5723959/tayari-jones-kin)
+*   [Gavin Newsom says he's 'punching a bully back' when he trolls Trump](https://www.npr.org/2026/02/24/nx-s1-5143015/why-gavin-newsom-refuses-to-be-a-bystander-in-this-political-moment)
+*   [History of mixed-race children orphaned in Germany after WWII inspires new novel by Sadeqa Johnson](https://www.npr.org/2026/02/22/nx-s1-5680092/history-of-mixed-race-children-orphaned-in-germany-after-wwii-inspires-new-novel-by-sadeqa-johnson)
