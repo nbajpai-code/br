@@ -145,3 +145,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Years ago, novelist Tayari Jones snuck into a writing class. It changed her life](https://www.npr.org/2026/02/24/nx-s1-5723959/tayari-jones-kin)
 *   [Gavin Newsom says he's 'punching a bully back' when he trolls Trump](https://www.npr.org/2026/02/24/nx-s1-5143015/why-gavin-newsom-refuses-to-be-a-bystander-in-this-political-moment)
 *   [History of mixed-race children orphaned in Germany after WWII inspires new novel by Sadeqa Johnson](https://www.npr.org/2026/02/22/nx-s1-5680092/history-of-mixed-race-children-orphaned-in-germany-after-wwii-inspires-new-novel-by-sadeqa-johnson)
+
+
+## Updates (2026-03-08)
+*   ['Dopamine Kids' explains why children crave screens and helps them enjoy life instead](https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens)
+*   [Mundane, magic, maybe both — a new book explores 'The Writer's Room'](https://www.npr.org/2026/03/04/nx-s1-5735922/the-writers-room-lucille-clifton-virginia-woolf)
+*   [A glimpse of Iran, through the eyes of its artists and journalists](https://www.npr.org/2026/03/03/nx-s1-5734031/iran-books-movies-music)
+*   [10 new books in March offer mental vacations](https://www.npr.org/2026/03/03/nx-s1-5729089/new-books-march)
