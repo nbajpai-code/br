@@ -152,3 +152,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Mundane, magic, maybe both — a new book explores 'The Writer's Room'](https://www.npr.org/2026/03/04/nx-s1-5735922/the-writers-room-lucille-clifton-virginia-woolf)
 *   [A glimpse of Iran, through the eyes of its artists and journalists](https://www.npr.org/2026/03/03/nx-s1-5734031/iran-books-movies-music)
 *   [10 new books in March offer mental vacations](https://www.npr.org/2026/03/03/nx-s1-5729089/new-books-march)
+
+
+## Updates (2026-03-15)
+*   [This tale of a Chicago school book ban was inspired by true events](https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review)
+*   ['My family is enough': Jamilah Lemieux on being a 'Black. Single. Mother.'](https://www.npr.org/2026/03/10/nx-s1-5742752/my-family-is-enough-jamilah-lemieux-on-being-a-black-single-mother)
+*   [This historian dug up the hidden history of 'amateur' blackface in America](https://www.npr.org/2026/03/09/nx-s1-5738478/darkology-blackface-rhae-lynn-barnes)
+*   [Understanding all that the word citizenship entails](https://www.npr.org/2026/03/08/nx-s1-5397178/understanding-all-that-the-word-citizenship-entails)
