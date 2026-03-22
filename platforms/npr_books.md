@@ -159,3 +159,11 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['My family is enough': Jamilah Lemieux on being a 'Black. Single. Mother.'](https://www.npr.org/2026/03/10/nx-s1-5742752/my-family-is-enough-jamilah-lemieux-on-being-a-black-single-mother)
 *   [This historian dug up the hidden history of 'amateur' blackface in America](https://www.npr.org/2026/03/09/nx-s1-5738478/darkology-blackface-rhae-lynn-barnes)
 *   [Understanding all that the word citizenship entails](https://www.npr.org/2026/03/08/nx-s1-5397178/understanding-all-that-the-word-citizenship-entails)
+
+
+## Updates (2026-03-22)
+*   ['Nonesuch' author Francis Spufford explains the 'Blitz spirit' of 1940s London](https://www.npr.org/2026/03/18/nx-s1-5751168/nonesuch-author-francis-spufford-explains-the-blitz-spirit-of-1940s-london)
+*   [Geopolitics may test the World Cup — a new book draws lessons from the past](https://www.npr.org/2026/03/17/nx-s1-5750358/we-are-the-world-cup-book-review)
+*   ['Art Isn't Easy' author offers new insights into Stephen Sondheim's life and music](https://www.npr.org/2026/03/16/nx-s1-5749232/art-isnt-easy-author-offers-new-insights-into-stephen-sondheims-life-and-music)
+*   [There's room for everyone in 'Now I Surrender,' an epic American Western](https://www.npr.org/2026/03/16/nx-s1-5746725/now-i-surrender-alvaro-enrigue-review)
+*   [Fab 5 Freddy recalls how he brought underground art forms mainstream respect](https://www.npr.org/2026/03/15/nx-s1-5728151/fab-5-freddy-recalls-how-he-brought-underground-art-forms-mainstream-respect)
