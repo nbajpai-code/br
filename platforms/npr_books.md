@@ -167,3 +167,8 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['Art Isn't Easy' author offers new insights into Stephen Sondheim's life and music](https://www.npr.org/2026/03/16/nx-s1-5749232/art-isnt-easy-author-offers-new-insights-into-stephen-sondheims-life-and-music)
 *   [There's room for everyone in 'Now I Surrender,' an epic American Western](https://www.npr.org/2026/03/16/nx-s1-5746725/now-i-surrender-alvaro-enrigue-review)
 *   [Fab 5 Freddy recalls how he brought underground art forms mainstream respect](https://www.npr.org/2026/03/15/nx-s1-5728151/fab-5-freddy-recalls-how-he-brought-underground-art-forms-mainstream-respect)
+
+
+## Updates (2026-03-29)
+*   [What explains the timeless appeal of Sherlock Holmes?](https://www.npr.org/2026/03/28/nx-s1-5752248/what-explains-the-timeless-appeal-of-sherlock-holmes)
+*   [Her mother murdered her father in an infamous case. Now, she's telling her own story](https://www.npr.org/2026/03/24/nx-s1-5757485/the-most-wonderful-terrible-person-debra-miller-memoir)
