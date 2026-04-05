@@ -172,3 +172,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 ## Updates (2026-03-29)
 *   [What explains the timeless appeal of Sherlock Holmes?](https://www.npr.org/2026/03/28/nx-s1-5752248/what-explains-the-timeless-appeal-of-sherlock-holmes)
 *   [Her mother murdered her father in an infamous case. Now, she's telling her own story](https://www.npr.org/2026/03/24/nx-s1-5757485/the-most-wonderful-terrible-person-debra-miller-memoir)
+
+
+## Updates (2026-04-05)
+*   ['London Falling': A teenage imposter, an aging gangster and a body in the Thames](https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe)
+*   [Dr. Sanjay Gupta explains what we do — and still don't — know about pain](https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta)
+*   ['Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along](https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review)
+*   [The oil industry is betting big on plastics. Here's what that means for the future](https://www.npr.org/2026/04/01/nx-s1-5763690/the-oil-industry-is-betting-big-on-plastics-heres-what-that-means-for-the-future)
+*   [6 books named finalists for the 2026 International Booker Prize](https://www.npr.org/2026/03/31/nx-s1-5766171/2026-international-booker-prize-shortlist)
+*   ['The Keeper' is a grand finale to Tana French's Cal Hooper crime series](https://www.npr.org/2026/03/31/nx-s1-5763821/the-keeper-tana-french-review)
+*   [Former Alex Jones employee says: 'It was nonsense, it was lies'](https://www.npr.org/2026/03/31/nx-s1-5763689/alex-jones-infowars-josh-owens-the-madness-of-believing)
+*   [He's the voice of romantasy audiobooks' biggest heartthrobs. He's never been busier](https://www.npr.org/2026/03/30/nx-s1-5759214/romantasy-audiobooks-acotar-anthony-palmini)
