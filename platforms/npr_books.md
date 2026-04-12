@@ -183,3 +183,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['The Keeper' is a grand finale to Tana French's Cal Hooper crime series](https://www.npr.org/2026/03/31/nx-s1-5763821/the-keeper-tana-french-review)
 *   [Former Alex Jones employee says: 'It was nonsense, it was lies'](https://www.npr.org/2026/03/31/nx-s1-5763689/alex-jones-infowars-josh-owens-the-madness-of-believing)
 *   [He's the voice of romantasy audiobooks' biggest heartthrobs. He's never been busier](https://www.npr.org/2026/03/30/nx-s1-5759214/romantasy-audiobooks-acotar-anthony-palmini)
+
+
+## Updates (2026-04-12)
+*   [Gut troubles?  This gastroenterologist has tips to help you achieve 'poophoria'](https://www.npr.org/2026/04/11/nx-s1-5780065/gut-constipation-bloating-bowel-movement)
+*   [Move over, Mr. Ripley. 'I Am Agatha' is a delightfully duplicitous debut](https://www.npr.org/2026/04/10/nx-s1-5763786/i-am-agatha-nancy-foley-review)
+*   [What draws people into cults? A new book tracks the journeys of two followers](https://www.npr.org/2026/04/09/nx-s1-5776704/book-review-the-oracles-daughter)
+*   [This doctor turned a 31-foot RV into one of the country's only mobile OB-GYN clinics](https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics)
+*   ['After the Flood' argues Bob Dylan's late career is just as potent as his early years](https://www.npr.org/2026/04/09/nx-s1-5779271/bob-dylan-after-the-flood-review-robert-polito)
+*   [11 new books in April offer a chance to step inside someone else's world](https://www.npr.org/2026/04/08/nx-s1-5776685/new-books-april)
+*   [A humorist faces life with Stage 4 lung cancer: 'The future disappeared for me'](https://www.npr.org/2026/04/08/nx-s1-5777417/a-humorist-faces-life-with-stage-4-lung-cancer-the-future-disappeared-for-me)
+*   [Even when Arsenio Hall's show was a hit, 'everyone wanted it to be something else'](https://www.npr.org/2026/04/06/nx-s1-5763692/arsenio-hall-memoir)
+*   [Questions to help you get 'financially naked' with your partner](https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner)
