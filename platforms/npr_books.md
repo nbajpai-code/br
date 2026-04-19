@@ -195,3 +195,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [A humorist faces life with Stage 4 lung cancer: 'The future disappeared for me'](https://www.npr.org/2026/04/08/nx-s1-5777417/a-humorist-faces-life-with-stage-4-lung-cancer-the-future-disappeared-for-me)
 *   [Even when Arsenio Hall's show was a hit, 'everyone wanted it to be something else'](https://www.npr.org/2026/04/06/nx-s1-5763692/arsenio-hall-memoir)
 *   [Questions to help you get 'financially naked' with your partner](https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner)
+
+
+## Updates (2026-04-19)
+*   [Filmmaker John Waters -- aka the 'Pope of Trash' -- turns 80](https://www.npr.org/2026/04/17/nx-s1-5788650/filmmaker-john-waters-aka-the-pope-of-trash-turns-80)
+*   [Whiting Foundation names its 10 emerging authors of 2026](https://www.npr.org/2026/04/15/nx-s1-5781140/2026-whiting-award-winners)
+*   [Have we been reading Toni Morrison all wrong?](https://www.npr.org/2026/04/13/nx-s1-5780845/have-we-been-reading-toni-morrison-all-wrong)
+*   ['Speakeasies to Symphonies' and 'Cosmic Music' chronicle 2 jazz greats](https://www.npr.org/2026/04/13/nx-s1-5783779/speakeasies-to-symphonies-and-cosmic-music-chronicle-2-jazz-greats)
