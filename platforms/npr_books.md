@@ -202,3 +202,11 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Whiting Foundation names its 10 emerging authors of 2026](https://www.npr.org/2026/04/15/nx-s1-5781140/2026-whiting-award-winners)
 *   [Have we been reading Toni Morrison all wrong?](https://www.npr.org/2026/04/13/nx-s1-5780845/have-we-been-reading-toni-morrison-all-wrong)
 *   ['Speakeasies to Symphonies' and 'Cosmic Music' chronicle 2 jazz greats](https://www.npr.org/2026/04/13/nx-s1-5783779/speakeasies-to-symphonies-and-cosmic-music-chronicle-2-jazz-greats)
+
+
+## Updates (2026-04-26)
+*   [Author details the spy network that took on America's post-WWII Nazi groups](https://www.npr.org/2026/04/23/nx-s1-5797402/author-details-the-spy-network-that-took-on-americas-post-wwii-nazi-groups)
+*   [Family influencers make the lifestyle look good. But kids pay the price, new book says](https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review)
+*   [Want to lighten your mental load? First, let go of these gender myths](https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths)
+*   [The 11 most challenged books of 2025, according to the American Library Association](https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books)
+*   [Malala Yousafzai on life before and after being shot by a Taliban gunman](https://www.npr.org/2026/04/20/nx-s1-5791491/malala-yousafzai-on-life-before-and-after-being-shot-by-a-taliban-gunman)
