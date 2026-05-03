@@ -210,3 +210,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Want to lighten your mental load? First, let go of these gender myths](https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths)
 *   [The 11 most challenged books of 2025, according to the American Library Association](https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books)
 *   [Malala Yousafzai on life before and after being shot by a Taliban gunman](https://www.npr.org/2026/04/20/nx-s1-5791491/malala-yousafzai-on-life-before-and-after-being-shot-by-a-taliban-gunman)
+
+
+## Updates (2026-05-03)
+*   [3 spring novels star trad wives, grown-up boy band fans, and a pregnant septuagenarian](https://www.npr.org/2026/04/30/nx-s1-5797748/yesteryear-american-fantasy-enormous-wings-review)
+*   [Welcome to 'Anxietyland' theme park, where the rides are no fun](https://www.npr.org/2026/04/29/nx-s1-5803158/anxietyland-review-gemma-correll)
+*   [A little boy loses his orange 'Balloon' but gains a new friend in this kids' book](https://www.npr.org/2026/04/26/nx-s1-5602905/picture-this-balloon-bruce-handy-julie-kwon)
+*   [Anthony Horowitz talks about his new book, 'A Deadly Episode'](https://www.npr.org/2026/04/25/nx-s1-5686472/anthony-horowitzs-talks-about-new-book-a-deadly-episode)
