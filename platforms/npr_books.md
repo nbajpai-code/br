@@ -217,3 +217,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Welcome to 'Anxietyland' theme park, where the rides are no fun](https://www.npr.org/2026/04/29/nx-s1-5803158/anxietyland-review-gemma-correll)
 *   [A little boy loses his orange 'Balloon' but gains a new friend in this kids' book](https://www.npr.org/2026/04/26/nx-s1-5602905/picture-this-balloon-bruce-handy-julie-kwon)
 *   [Anthony Horowitz talks about his new book, 'A Deadly Episode'](https://www.npr.org/2026/04/25/nx-s1-5686472/anthony-horowitzs-talks-about-new-book-a-deadly-episode)
+
+
+## Updates (2026-05-10)
+*   [Novelists Tayari Jones and Meg Wolitzer share notes on mothers in fiction](https://www.npr.org/2026/05/08/nx-s1-5788865/novelists-tayari-jones-and-meg-wolitzer-share-notes-on-mothers-in-fiction)
+*   [New book reimagines Hans Christian Andersen's visit with Charles Dickens and family](https://www.npr.org/2026/05/06/nx-s1-5810099/five-weeks-in-the-country-francine-prose-review)
+*   [Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement](https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit)
+*   [A legal scholar and 'Backtalker' defends critical race theory — a term she helped coin](https://www.npr.org/2026/05/05/nx-s1-5806015/kimberle-williams-crenshaw-backtalker)
+*   [It's blockbuster book season: Here are 12 new titles coming in May](https://www.npr.org/2026/05/05/nx-s1-5807895/new-books-summer-2026)
+*   [Here are the 2026 Pulitzer Prize winners](https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026)
+*   [In 'John of John,' father and son are gay -- and they're keeping it from each other](https://www.npr.org/2026/05/04/nx-s1-5810185/in-john-of-john-father-and-son-are-gay-and-theyre-keeping-it-from-each-other)
+*   ['Adolescence' creator talks teenage masculinity again for 'Lord of the Flies' series](https://www.npr.org/2026/05/04/nx-s1-5753845/jack-thorne-film-lord-of-the-flies)
+*   [Isabel Klee's new memoir explores the realities of dog rescue](https://www.npr.org/2026/05/03/nx-s1-5715116/isabel-klees-new-memoir-explores-the-realities-of-dog-rescue)
