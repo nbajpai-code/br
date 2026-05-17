@@ -229,3 +229,11 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [In 'John of John,' father and son are gay -- and they're keeping it from each other](https://www.npr.org/2026/05/04/nx-s1-5810185/in-john-of-john-father-and-son-are-gay-and-theyre-keeping-it-from-each-other)
 *   ['Adolescence' creator talks teenage masculinity again for 'Lord of the Flies' series](https://www.npr.org/2026/05/04/nx-s1-5753845/jack-thorne-film-lord-of-the-flies)
 *   [Isabel Klee's new memoir explores the realities of dog rescue](https://www.npr.org/2026/05/03/nx-s1-5715116/isabel-klees-new-memoir-explores-the-realities-of-dog-rescue)
+
+
+## Updates (2026-05-17)
+*   [Remembering Pulitzer Prize-winning journalist Philip Caputo](https://www.npr.org/2026/05/15/nx-s1-5823574/remembering-pulitzer-prize-winning-journalist-philip-caputo)
+*   [New novels from Elizabeth Strout and 'Pemi Aguda are lonely and enchanting](https://www.npr.org/2026/05/13/nx-s1-5820906/elizabeth-strout-pemi-aguda-book-review)
+*   [She spent a year using AI to do almost everything. Here's what she learned](https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned)
+*   [In 'The Young Will Remember,' a Korean War reporter gets stranded behind enemy lines](https://www.npr.org/2026/05/12/nx-s1-5819245/the-young-will-remember-eve-chung-book-review)
+*   [Ginny Monk and Dave Altimari discuss their Pulitzer Prize-winning work](https://www.npr.org/2026/05/09/nx-s1-5814969/ginny-monk-and-dave-altimari-discuss-their-pulitzer-prize-winning-work)
