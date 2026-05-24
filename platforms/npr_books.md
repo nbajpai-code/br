@@ -237,3 +237,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [She spent a year using AI to do almost everything. Here's what she learned](https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned)
 *   [In 'The Young Will Remember,' a Korean War reporter gets stranded behind enemy lines](https://www.npr.org/2026/05/12/nx-s1-5819245/the-young-will-remember-eve-chung-book-review)
 *   [Ginny Monk and Dave Altimari discuss their Pulitzer Prize-winning work](https://www.npr.org/2026/05/09/nx-s1-5814969/ginny-monk-and-dave-altimari-discuss-their-pulitzer-prize-winning-work)
+
+
+## Updates (2026-05-24)
+*   [Sisters reunite in Ali Smith's 'Glyph,' bringing light after the darkness of 'Gliff'](https://www.npr.org/2026/05/21/nx-s1-5826842/ali-smith-glyph-gliff-review)
+*   [The Justice Department gives Trump an unprecedented settlement](https://www.npr.org/2026/05/20/nx-s1-5828414/the-justice-department-gives-trump-an-unprecedented-settlement)
+*   [Having trouble focusing on your book? Try immersive reading](https://www.npr.org/2026/05/20/nx-s1-5790811/immersive-reading-trend)
+*   ['Taiwan Travelogue' wins the 2026 International Booker Prize](https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue)
+*   [In the face of devastating loss, Jesmyn Ward holds onto 'respair'](https://www.npr.org/2026/05/19/nx-s1-5823597/jesmyn-ward-on-witness-and-respair)
+*   [15 books our critics can't wait for this summer](https://www.npr.org/2026/05/19/nx-s1-5800893/new-summer-books-2026)
+*   [Son of radicals, Zayd Ayers Dohrn details a childhood underground and on the run](https://www.npr.org/2026/05/18/nx-s1-5823595/zayd-ayers-dohrn-dangerous-dirty-violent-young)
