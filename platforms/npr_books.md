@@ -247,3 +247,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [In the face of devastating loss, Jesmyn Ward holds onto 'respair'](https://www.npr.org/2026/05/19/nx-s1-5823597/jesmyn-ward-on-witness-and-respair)
 *   [15 books our critics can't wait for this summer](https://www.npr.org/2026/05/19/nx-s1-5800893/new-summer-books-2026)
 *   [Son of radicals, Zayd Ayers Dohrn details a childhood underground and on the run](https://www.npr.org/2026/05/18/nx-s1-5823595/zayd-ayers-dohrn-dangerous-dirty-violent-young)
+
+
+## Updates (2026-05-31)
+*   ["I felt guilty for being the chosen one": Ada Ferrer on her memoir about leaving Cuba](https://www.npr.org/2026/05/30/nx-s1-5830282/i-felt-guilty-for-being-the-chosen-one-ada-ferrers-memoir-about-leaving-cuba)
+*   ['American Rambler' traces the path, and truth-squads the tale, of Johnny Appleseed](https://www.npr.org/2026/05/28/nx-s1-5831078/american-rambler-isaac-fitzgerald-book-review)
+*   [Former Obama adviser reflects on the 'Battle for American Identity'](https://www.npr.org/2026/05/27/nx-s1-5835275/former-obama-advisor-reflects-on-the-battle-for-american-identity)
+*   [Travel to Italy and Algeria in these two brilliant, translated mysteries](https://www.npr.org/2026/05/26/nx-s1-5831457/the-end-of-the-sahara-an-enigma-by-the-sea-book-review)
+*   [If you attend a David Sedaris reading, you're helping him edit](https://www.npr.org/2026/05/26/nx-s1-5831456/david-sedaris-the-land-and-its-people)
+*   [In the 'biggest book giveaway in history' WWII soldiers received pocket-sized reads](https://www.npr.org/2026/05/25/nx-s1-5823711/soldiers-books-world-war-ii)
+*   [A kick takes on a life of its own in the kids' book, 'When Tad Kicked Vlad'](https://www.npr.org/2026/05/24/nx-s1-5718229/when-tad-kicked-vlad-julian-gough-ross-collins)
