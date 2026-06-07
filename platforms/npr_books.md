@@ -257,3 +257,16 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [If you attend a David Sedaris reading, you're helping him edit](https://www.npr.org/2026/05/26/nx-s1-5831456/david-sedaris-the-land-and-its-people)
 *   [In the 'biggest book giveaway in history' WWII soldiers received pocket-sized reads](https://www.npr.org/2026/05/25/nx-s1-5823711/soldiers-books-world-war-ii)
 *   [A kick takes on a life of its own in the kids' book, 'When Tad Kicked Vlad'](https://www.npr.org/2026/05/24/nx-s1-5718229/when-tad-kicked-vlad-julian-gough-ross-collins)
+
+
+## Updates (2026-06-07)
+*   [Marjane Satrapi, author of 'Persepolis,' dies at 56](https://www.npr.org/2026/06/04/nx-s1-5846531/marjane-satrapi-obituary)
+*   [A nameless narrator attempts to understand Gertrude Stein in Deborah Levy's new novel](https://www.npr.org/2026/06/03/nx-s1-5843246/my-year-in-paris-with-gertrude-stein-deborah-levy-review)
+*   ['Hellions' author Julia Elliott wins $150K fiction prize](https://www.npr.org/2026/06/02/nx-s1-5844169/2026-carol-shields-prize-winner)
+*   [Mary Beard illuminates the ancient world -- and our own -- in 'Talking Classics'](https://www.npr.org/2026/06/02/nx-s1-5844180/talking-classics-mary-beard-review)
+*   ['Hamnet' novelist Maggie O'Farrell turns to her own family story in 'Land'](https://www.npr.org/2026/06/02/nx-s1-5838848/hamnet-novelist-maggie-ofarrell-turns-to-her-own-family-story-in-land)
+*   [Doctors checked Biden just after Trump debate as Jill Biden feared he had a stroke](https://www.npr.org/2026/06/02/g-s1-125335/jill-biden-stroke-debate-doctor)
+*   [10 new books in June will transport you](https://www.npr.org/2026/06/02/nx-s1-5838726/new-books-june-2026)
+*   [A kid's book newly published in English has a long backstory in the Soviet Union](https://www.npr.org/2026/06/01/nx-s1-5727747/a-kids-book-newly-published-in-english-has-a-long-backstory-in-the-soviet-union)
+*   [Richard Pryor's daughter studies the N-word — a word he used, then disavowed](https://www.npr.org/2026/06/01/nx-s1-5838847/richard-pryor-elizabeth-stordeur-something-we-said)
+*   ['How to Rule the World' explores education and power at Stanford University](https://www.npr.org/2026/06/01/nx-s1-5672576/theo-baker-how-to-rule-the-world-tech-silicon-valley)
