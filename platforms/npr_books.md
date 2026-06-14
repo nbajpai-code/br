@@ -270,3 +270,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [A kid's book newly published in English has a long backstory in the Soviet Union](https://www.npr.org/2026/06/01/nx-s1-5727747/a-kids-book-newly-published-in-english-has-a-long-backstory-in-the-soviet-union)
 *   [Richard Pryor's daughter studies the N-word — a word he used, then disavowed](https://www.npr.org/2026/06/01/nx-s1-5838847/richard-pryor-elizabeth-stordeur-something-we-said)
 *   ['How to Rule the World' explores education and power at Stanford University](https://www.npr.org/2026/06/01/nx-s1-5672576/theo-baker-how-to-rule-the-world-tech-silicon-valley)
+
+
+## Updates (2026-06-14)
+*   [5 ways to read more books this summer](https://www.npr.org/2026/06/12/nx-s1-5856397/how-to-read-more-this-summer)
+*   [Remembering French-Iranian artist and writer Marjane Satrapi](https://www.npr.org/2026/06/12/nx-s1-5856215/remembering-french-iranian-artist-and-writer-marjane-satrapi)
+*   [Journalist says LA was left to burn, and questions the complex rush to rebuild](https://www.npr.org/2026/06/11/nx-s1-5819714/cbs-news-correspondent-jonathan-vigliotti-2025-palisades-fire-torched)
+*   [Soundgarden guitarist Kim Thayil chronicles the band's ascent in his new memoir](https://www.npr.org/2026/06/10/nx-s1-5590213/soundgarden-guitarist-kim-thayil-chronicles-the-bands-ascent-in-his-new-memoir)
+*   [Kacey Musgraves' new album pairs well with a biography of '70s singer Gary Stewart](https://www.npr.org/2026/06/09/nx-s1-5851607/kacey-musgraves-new-album-pairs-well-with-a-biography-of-70s-singer-gary-stewart)
+*   [AI development is driving economic inequality, says tech critic Karen Hao](https://www.npr.org/2026/06/09/nx-s1-5835315/karen-hao-on-artifical-intelligence-pope-leo-encyclical)
+*   [In his book, self-described USAID 'whistleblower' talks about the agency and Ebola](https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich)
