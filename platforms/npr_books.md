@@ -280,3 +280,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Kacey Musgraves' new album pairs well with a biography of '70s singer Gary Stewart](https://www.npr.org/2026/06/09/nx-s1-5851607/kacey-musgraves-new-album-pairs-well-with-a-biography-of-70s-singer-gary-stewart)
 *   [AI development is driving economic inequality, says tech critic Karen Hao](https://www.npr.org/2026/06/09/nx-s1-5835315/karen-hao-on-artifical-intelligence-pope-leo-encyclical)
 *   [In his book, self-described USAID 'whistleblower' talks about the agency and Ebola](https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich)
+
+
+## Updates (2026-06-21)
+*   [Judy Blume says she's done writing: '50 years is enough!'](https://www.npr.org/2026/06/20/nx-s1-5825725/judy-blume-scott-simon)
+*   [How the 1874 Freedman's Bank collapse connects to economic disparities we see today](https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today)
+*   [For author Jane Yolen, no word was too big for a children's book](https://www.npr.org/2026/06/17/nx-s1-5859321/jane-yolen-author-devils-arithmetic-dinosaur-books)
+*   ['The Lost Founder' profiles a brilliant lawyer who helped craft the Constitution](https://www.npr.org/2026/06/16/nx-s1-5859433/the-lost-founder-profiles-a-brilliant-lawyer-who-helped-craft-the-constitution)
+*   [Faith's role in U.S. politics 'requires humility,' not certainty, says Sen. Warnock](https://www.npr.org/2026/06/16/nx-s1-5670372/raphael-warnock-christianity-politics-new-book)
+*   [Book on deadly 2013 riots blocked from being sold in the country it happened in](https://www.npr.org/2026/06/16/nx-s1-5857635/book-on-deadly-2013-riots-blocked-from-being-sold-in-the-country-it-happened-in)
+*   [As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'](https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude)
+*   [If you plan to catch up on reading this summer, start with these 3 books](https://www.npr.org/2026/06/15/nx-s1-5856245/summer-books-reviews)
+*   [Tessa Yang talks about her debut novel, 'The Jellyfish Problem'](https://www.npr.org/2026/06/13/nx-s1-5786702/tessa-yang-talks-about-her-debut-novel-the-jellyfish-problem)
