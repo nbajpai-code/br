@@ -292,3 +292,12 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'](https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude)
 *   [If you plan to catch up on reading this summer, start with these 3 books](https://www.npr.org/2026/06/15/nx-s1-5856245/summer-books-reviews)
 *   [Tessa Yang talks about her debut novel, 'The Jellyfish Problem'](https://www.npr.org/2026/06/13/nx-s1-5786702/tessa-yang-talks-about-her-debut-novel-the-jellyfish-problem)
+
+
+## Updates (2026-06-28)
+*   [Here are the nonfiction books NPR staffers have loved so far this year](https://www.npr.org/2026/06/23/nx-s1-5800895/nonfiction-books-summer-2026)
+*   [NPR staffers share their favorite fiction reads of 2026 so far](https://www.npr.org/2026/06/23/nx-s1-5800894/fiction-books-novels-summer-2026)
+*   [Laverne Cox wrote her memoir because 'one more human story out there can help'](https://www.npr.org/2026/06/22/nx-s1-5866266/laverne-cox-memoir-transcendent)
+*   [Did you know? Alan Greenspan and Ayn Rand were close friends](https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand)
+*   [Alan Greenspan, the legendary former Federal Reserve chair, dies](https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies)
+*   [Former Vice President Mike Pence believes Washington is more 'swampy' under Trump](https://www.npr.org/2026/06/22/nx-s1-5597960/mike-pence-what-conservatives-want-republican-party)
