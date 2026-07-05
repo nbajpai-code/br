@@ -301,3 +301,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Did you know? Alan Greenspan and Ayn Rand were close friends](https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand)
 *   [Alan Greenspan, the legendary former Federal Reserve chair, dies](https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies)
 *   [Former Vice President Mike Pence believes Washington is more 'swampy' under Trump](https://www.npr.org/2026/06/22/nx-s1-5597960/mike-pence-what-conservatives-want-republican-party)
+
+
+## Updates (2026-07-05)
+*   [From Lead Belly to Tupac: a prison history of music](https://www.npr.org/2026/07/04/nx-s1-5869524/from-lead-belly-to-tupac-a-prison-history-of-music)
+*   [You know the Mayflower. What about the White Lion? Here's the story of 'Two Ships'](https://www.npr.org/2026/07/03/nx-s1-5876220/two-ships-review-america-250-mayflower-white-lion)
+*   ['Opting Out' is a graphic novel of 7th grade survival from the author of 'Gender Queer'](https://www.npr.org/2026/07/02/nx-s1-5837928/opting-out-maia-kobabe-review)
+*   [In Kennedy Ryan's romance, happily-ever-after is for everyone](https://www.npr.org/2026/07/02/nx-s1-5878424/kennedy-ryan-romance-novelist)
+*   ['Dead but Dreaming of Electric Sheep' is full of beautifully written grotesqueries](https://www.npr.org/2026/06/30/nx-s1-5874625/dead-but-dreaming-of-electric-sheep-paul-tremblay-review)
+*   ['The Perfect Moment' makes the case that culture wars have 'completely eaten America'](https://www.npr.org/2026/06/30/nx-s1-5876197/the-perfect-moment-makes-the-case-that-culture-wars-have-completely-eaten-america)
+*   [An assistant district attorney and a madam join forces in 'A Pair of Aces'](https://www.npr.org/2026/06/29/nx-s1-5860012/a-pair-of-aces-marie-benedict-victoria-christopher-murray)
