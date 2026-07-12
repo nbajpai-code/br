@@ -311,3 +311,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['Dead but Dreaming of Electric Sheep' is full of beautifully written grotesqueries](https://www.npr.org/2026/06/30/nx-s1-5874625/dead-but-dreaming-of-electric-sheep-paul-tremblay-review)
 *   ['The Perfect Moment' makes the case that culture wars have 'completely eaten America'](https://www.npr.org/2026/06/30/nx-s1-5876197/the-perfect-moment-makes-the-case-that-culture-wars-have-completely-eaten-america)
 *   [An assistant district attorney and a madam join forces in 'A Pair of Aces'](https://www.npr.org/2026/06/29/nx-s1-5860012/a-pair-of-aces-marie-benedict-victoria-christopher-murray)
+
+
+## Updates (2026-07-12)
+*   [Are we living through the end of reading?](https://www.npr.org/2026/07/11/nx-s1-5886268/are-we-living-through-the-end-of-reading)
+*   [10 new books you won't want to miss in July](https://www.npr.org/2026/07/07/nx-s1-5874626/new-books-july-fiction-nonfiction)
+*   [What a divorce coach wishes couples knew before ending a marriage](https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce)
+*   ['You Won't Get Free of It' explores the complicated mother-daughter bond](https://www.npr.org/2026/07/06/nx-s1-5879238/you-wont-get-free-of-it-explores-the-complicated-mother-daughter-bond)
