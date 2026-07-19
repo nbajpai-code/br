@@ -318,3 +318,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [10 new books you won't want to miss in July](https://www.npr.org/2026/07/07/nx-s1-5874626/new-books-july-fiction-nonfiction)
 *   [What a divorce coach wishes couples knew before ending a marriage](https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce)
 *   ['You Won't Get Free of It' explores the complicated mother-daughter bond](https://www.npr.org/2026/07/06/nx-s1-5879238/you-wont-get-free-of-it-explores-the-complicated-mother-daughter-bond)
+
+
+## Updates (2026-07-19)
+*   [Got a long summer reading list? NPR's 'Life Kit' helps you keep pages turning](https://www.npr.org/2026/07/17/nx-s1-5879356-e1/got-a-long-summer-reading-list-nprs-life-kit-helps-you-keep-pages-turning)
+*   ['I Want You to Be Happy' takes on modern-day dating](https://www.npr.org/2026/07/17/nx-s1-5894946/i-want-you-to-be-happy-jem-calder-review)
+*   [Apache chef Nephi Craig says cooking Native food saved his life](https://www.npr.org/2026/07/16/nx-s1-5894886/apache-chef-nephi-craig-our-knives-will-save-us)
+*   [An eco-journalist takes on Big Tech in this modern twist on the heist novel](https://www.npr.org/2026/07/16/nx-s1-5895124/cloudthief-review-nathaniel-rich-data-centers)
+*   [Trump relished in being compared to dictators like Hitler and Stalin, journalist says](https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman)
+*   ['The Trojan Teddy Bear': The promise and peril of childhood in the age of AI](https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai)
+*   [Got a long summer reading list? NPR's Life Kit helps you keep pages turning](https://www.npr.org/2026/07/12/nx-s1-5879356/got-a-long-summer-reading-list-nprs-life-kit-helps-you-keep-pages-turning)
