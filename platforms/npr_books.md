@@ -328,3 +328,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Trump relished in being compared to dictators like Hitler and Stalin, journalist says](https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman)
 *   ['The Trojan Teddy Bear': The promise and peril of childhood in the age of AI](https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai)
 *   [Got a long summer reading list? NPR's Life Kit helps you keep pages turning](https://www.npr.org/2026/07/12/nx-s1-5879356/got-a-long-summer-reading-list-nprs-life-kit-helps-you-keep-pages-turning)
+
+
+## Updates (2026-07-26)
+*   [Left over center, right over center — 2nd graders are braiding a 'Story Rug'](https://www.npr.org/2026/07/25/nx-s1-5718191/story-rug-sophie-blackall-phoebe-wahl)
+*   [A former nun explains why she ran away from her 'Cloistered' life](https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life)
+*   [Get into med school in the graphic memoir 'See One, Do One, Teach One'](https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris)
+*   [A teen was murdered in 1985. A new book tracks the case through a broken legal system](https://www.npr.org/2026/07/21/nx-s1-5891947/catch-the-devil-true-crime-pamela-colloff)
+*   [Harriet Clark's novel 'The Hill' draws on her 37 years visiting her mom in prison](https://www.npr.org/2026/07/20/nx-s1-5900823/harriet-clarks-novel-the-hill-draws-on-her-37-years-visiting-her-mom-in-prison)
+*   [So distressed you can't think straight? Lower the intensity with these 4 skills](https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills)
+*   [Romance books recommended by NPR staff for summer reading](https://www.npr.org/2026/07/19/nx-s1-5899846/romance-books-recommended-by-npr-staff-for-summer-reading)
+*   [NPR staff recommend romance novels to sink into this summer](https://www.npr.org/2026/07/19/nx-s1-5873361/npr-staff-recommend-romance-novels-to-sink-into-this-summer)
