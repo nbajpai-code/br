@@ -339,3 +339,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [So distressed you can't think straight? Lower the intensity with these 4 skills](https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills)
 *   [Romance books recommended by NPR staff for summer reading](https://www.npr.org/2026/07/19/nx-s1-5899846/romance-books-recommended-by-npr-staff-for-summer-reading)
 *   [NPR staff recommend romance novels to sink into this summer](https://www.npr.org/2026/07/19/nx-s1-5873361/npr-staff-recommend-romance-novels-to-sink-into-this-summer)
+
+
+## Updates (2026-08-02)
+*   ['Taiwan Travelogue' rethinks history, colonialism, and identity](https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity)
+*   ['Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself](https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan)
+*   [Two road trip novelists share their favorite stories about the open road](https://www.npr.org/2026/07/28/nx-s1-5897434/two-road-trip-novelists-share-their-favorite-stories-about-the-open-road)
+*   ['Ricochet' explores how the right to bear arms expands -- while gun laws contract](https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract)
+*   [Here are the 13 books that made the Booker Prize longlist](https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction)
+*   [A novelist followed her mother's advice: The more you read, the freer you are](https://www.npr.org/2026/07/27/nx-s1-5906473/leila-slimani-i-ll-take-the-fire)
+*   [The creators of a Absolute Batman discuss their new reimagining of the character](https://www.npr.org/2026/07/26/nx-s1-5878073/the-creators-of-a-absolute-batman-discuss-their-new-reimagining-of-the-character)
