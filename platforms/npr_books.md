@@ -349,3 +349,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Here are the 13 books that made the Booker Prize longlist](https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction)
 *   [A novelist followed her mother's advice: The more you read, the freer you are](https://www.npr.org/2026/07/27/nx-s1-5906473/leila-slimani-i-ll-take-the-fire)
 *   [The creators of a Absolute Batman discuss their new reimagining of the character](https://www.npr.org/2026/07/26/nx-s1-5878073/the-creators-of-a-absolute-batman-discuss-their-new-reimagining-of-the-character)
+
+
+## Updates (2026-08-09)
+*   [Death is everywhere in the desert — it's where Claire Vaye Watkins feels most alive](https://www.npr.org/2026/08/06/nx-s1-5921303/claire-vaye-watkins-yellow-pine)
+*   [Today is the day after Ray Bradbury's post-apocalyptic world](https://www.npr.org/2026/08/05/nx-s1-5913357/today-is-the-day-after-ray-bradburys-post-apocalyptic-world)
+*   ['Meet Me In the Garden' tells the great migration story of three sisters after World War II](https://www.npr.org/2026/08/05/nx-s1-5762905/meet-me-in-the-garden-tells-the-great-migration-story-of-three-sisters-after-world-war-ii)
+*   [In 'Take What You Can,' Naima Coster explores growing into parenthood with chosen family](https://www.npr.org/2026/08/04/nx-s1-5803530/in-take-what-you-can-naima-coster-explores-growing-into-parenthood-with-chosen-family)
+*   ['Country People' is a silly, satisfying midsummer romp](https://www.npr.org/2026/08/04/nx-s1-5887462/country-people-daniel-mason-shakespeare-review)
+*   [13 new books in August will get you through the dog days of summer](https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026)
+*   [How the Miss America pageant ignited a battle over beauty, race and power](https://www.npr.org/2026/08/03/nx-s1-5906474/how-the-miss-america-pageant-ignited-a-battle-over-beauty-race-and-power)
+*   [NPR staffers recommend their favorite fiction books of the year so far](https://www.npr.org/2026/08/02/nx-s1-5872432/npr-staffers-recommend-their-favorite-fiction-books-of-the-year-so-far)
