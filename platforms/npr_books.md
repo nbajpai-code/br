@@ -360,3 +360,7 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [13 new books in August will get you through the dog days of summer](https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026)
 *   [How the Miss America pageant ignited a battle over beauty, race and power](https://www.npr.org/2026/08/03/nx-s1-5906474/how-the-miss-america-pageant-ignited-a-battle-over-beauty-race-and-power)
 *   [NPR staffers recommend their favorite fiction books of the year so far](https://www.npr.org/2026/08/02/nx-s1-5872432/npr-staffers-recommend-their-favorite-fiction-books-of-the-year-so-far)
+
+
+## Updates (2026-08-16)
+*   ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
