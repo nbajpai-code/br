@@ -364,3 +364,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 
 ## Updates (2026-08-16)
 *   ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
+
+
+## Updates (2026-08-23)
+*   [In which 'Winnie-the-Pooh' turns 100](https://www.npr.org/2026/08/22/nx-s1-5697049/how-a-bear-became-a-book-annette-bay-pimentel-faith-pray)
+*   ['The Dog Stars' novelist Peter Heller drew on real-life survival skills](https://www.npr.org/2026/08/21/nx-s1-5940646/the-dog-stars-novelist-peter-heller-drew-on-real-life-survival-skills)
+*   [In 'Etna,' a canine narrator delivers a poignant anti-war message](https://www.npr.org/2026/08/17/nx-s1-5935270/etna-paul-yoon-review)
+*   ['Fed Up' author explains how evolution impacts eating, dieting and fat](https://www.npr.org/2026/08/17/nx-s1-5928230/fed-up-author-explains-how-evolution-impacts-eating-dieting-and-fat)
