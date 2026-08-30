@@ -371,3 +371,10 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['The Dog Stars' novelist Peter Heller drew on real-life survival skills](https://www.npr.org/2026/08/21/nx-s1-5940646/the-dog-stars-novelist-peter-heller-drew-on-real-life-survival-skills)
 *   [In 'Etna,' a canine narrator delivers a poignant anti-war message](https://www.npr.org/2026/08/17/nx-s1-5935270/etna-paul-yoon-review)
 *   ['Fed Up' author explains how evolution impacts eating, dieting and fat](https://www.npr.org/2026/08/17/nx-s1-5928230/fed-up-author-explains-how-evolution-impacts-eating-dieting-and-fat)
+
+
+## Updates (2026-08-30)
+*   ['Life of M' constructs a portrait of how stardom hides a person's core](https://www.npr.org/2026/08/26/nx-s1-5942969/life-of-m-rachel-cusk-review)
+*   [How Carlos the Jackal became the world's most wanted terrorist of the '70s and '80s](https://www.npr.org/2026/08/25/nx-s1-5944280/how-carlos-the-jackal-became-the-worlds-most-infamous-terrorist-of-the-70s-and-80s)
+*   [Squeeze in one last summer read: Here are 3 suspense thrillers to choose from](https://www.npr.org/2026/08/25/nx-s1-5943160/thriller-suspense-novels)
+*   [Author Jill Lepore discusses new book, 'The Rise and Fall of the Artificial State'](https://www.npr.org/2026/08/25/nx-s1-5768185/author-jill-lepore-discusses-new-book-the-rise-and-fall-of-the-artificial-state)
