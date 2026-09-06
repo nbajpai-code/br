@@ -378,3 +378,12 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [How Carlos the Jackal became the world's most wanted terrorist of the '70s and '80s](https://www.npr.org/2026/08/25/nx-s1-5944280/how-carlos-the-jackal-became-the-worlds-most-infamous-terrorist-of-the-70s-and-80s)
 *   [Squeeze in one last summer read: Here are 3 suspense thrillers to choose from](https://www.npr.org/2026/08/25/nx-s1-5943160/thriller-suspense-novels)
 *   [Author Jill Lepore discusses new book, 'The Rise and Fall of the Artificial State'](https://www.npr.org/2026/08/25/nx-s1-5768185/author-jill-lepore-discusses-new-book-the-rise-and-fall-of-the-artificial-state)
+
+
+## Updates (2026-09-06)
+*   [40 years later, 'The Baby-Sitters Club' is still helping readers see themselves](https://www.npr.org/2026/09/05/nx-s1-5902261/ann-m-martin-baby-sitters-club)
+*   [New book traces the pieces of steel salvaged from the World Trade Center](https://www.npr.org/2026/09/04/nx-s1-5813745/new-book-traces-the-pieces-of-steel-salvaged-from-the-world-trade-center)
+*   [Understanding the tech giants' oversized influence in American schools](https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools)
+*   [14 new books in September to help ease you into fall](https://www.npr.org/2026/09/01/nx-s1-5950423/new-books-september)
+*   [Beloved writer and environmentalist Wendell Berry has died at age 92](https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary)
+*   [Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most](https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment)
