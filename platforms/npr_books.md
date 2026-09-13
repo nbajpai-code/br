@@ -387,3 +387,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [14 new books in September to help ease you into fall](https://www.npr.org/2026/09/01/nx-s1-5950423/new-books-september)
 *   [Beloved writer and environmentalist Wendell Berry has died at age 92](https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary)
 *   [Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most](https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment)
+
+
+## Updates (2026-09-13)
+*   [How the Sept. 11 attacks remade life in America](https://www.npr.org/2026/09/09/nx-s1-5962197/how-the-sept-11-attacks-remade-life-in-america)
+*   [It's 2031, and the U.S. has 'come undone' in Emily St. John Mandel's 'Exit Party'](https://www.npr.org/2026/09/09/nx-s1-5962188/exit-party-review-emily-st-john-mandel)
+*   [How to fight with the people we care about, illustrated](https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker)
+*   [Colin Kaepernick reflects on Jay-Z 'disappointing' him, losing the NFL and finding his power](https://www.npr.org/2026/09/09/nx-s1-5791621/colin-kaepernick-perilous-fight-jay-z-nfl-deal)
+*   ['The Great Refusal' author Casey Gerald says ruining his reputation saved his life](https://www.npr.org/2026/09/08/nx-s1-5957533/the-great-refusal-author-casey-gerald-says-ruining-his-reputation-saved-his-life)
+*   [How a birthday trip to Africa — and the work of Octavia Butler — led to a picture book](https://www.npr.org/2026/09/07/nx-s1-5941167/how-a-birthday-trip-to-africa-and-the-work-of-octavia-butler-led-to-a-picture-book)
+*   [Author Emily Wilson on how she brings Homer's ancient poems back to life](https://www.npr.org/2026/09/06/nx-s1-5829829/author-emily-wilson-on-how-she-brings-homers-ancient-poems-back-to-life)
