@@ -397,3 +397,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['The Great Refusal' author Casey Gerald says ruining his reputation saved his life](https://www.npr.org/2026/09/08/nx-s1-5957533/the-great-refusal-author-casey-gerald-says-ruining-his-reputation-saved-his-life)
 *   [How a birthday trip to Africa — and the work of Octavia Butler — led to a picture book](https://www.npr.org/2026/09/07/nx-s1-5941167/how-a-birthday-trip-to-africa-and-the-work-of-octavia-butler-led-to-a-picture-book)
 *   [Author Emily Wilson on how she brings Homer's ancient poems back to life](https://www.npr.org/2026/09/06/nx-s1-5829829/author-emily-wilson-on-how-she-brings-homers-ancient-poems-back-to-life)
+
+
+## Updates (2026-09-20)
+*   [Editor Rose Friedman, who helped shape NPR's cultural coverage, dies at 38](https://www.npr.org/2026/09/18/nx-s1-5973098/rose-friedman-dies)
+*   ['American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump](https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump)
+*   [Annie Dillard, Pulitzer Prize-winning novelist, dies at 81](https://www.npr.org/2026/09/16/1138680574/annie-dillard-dead)
+*   [Kate Atkinson's latest historical escape is to a festival most Americans haven't heard of](https://www.npr.org/2026/09/16/nx-s1-5969746/our-noble-selves-review-kate-atkinson)
+*   [You know the phrase "Live Laugh Love," but do you know its history?](https://www.npr.org/2026/09/14/nx-s1-5750611/you-know-the-phrase-live-laugh-love-but-do-you-know-its-history)
+*   [10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'](https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight)
+*   [The powerful millionaires hiding in plain sight](https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight)
+*   [New Carlo Rovelli book challenges science's understanding of reality and the universe](https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli)
+*   [Meet 'The Weather Keeper' who lives in a lighthouse at the edge of the world](https://www.npr.org/2026/09/13/nx-s1-5902250/the-weather-keeper-nelly-buchet-elizabeth-haidle)
