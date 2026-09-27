@@ -409,3 +409,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [The powerful millionaires hiding in plain sight](https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight)
 *   [New Carlo Rovelli book challenges science's understanding of reality and the universe](https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli)
 *   [Meet 'The Weather Keeper' who lives in a lighthouse at the edge of the world](https://www.npr.org/2026/09/13/nx-s1-5902250/the-weather-keeper-nelly-buchet-elizabeth-haidle)
+
+
+## Updates (2026-09-27)
+*   [To spot a 'Mockingbird': London thrift manager finds rare U.S. literary 1st edition](https://www.npr.org/2026/09/26/nx-s1-5978893/to-spot-a-mockingbird-london-thrift-manager-finds-rare-u-s-literary-1st-edition)
+*   ['The Disappearers' is a fiercely personal novel that hits like a tidal wave](https://www.npr.org/2026/09/25/nx-s1-5981056/the-disappearers-review-marlon-james)
+*   ['Bad Boy For Life' investigates the culture that enabled Sean Combs' alleged abuse](https://www.npr.org/2026/09/24/nx-s1-5978799/sean-combs-bad-boy-for-life-cheyenne-roundtree)
+*   ['Empire' asks: When a child dies, who pays the price?](https://www.npr.org/2026/09/24/nx-s1-5976045/empire-heir-sabaa-tahir-review)
+*   [The 2026 Booker Prize shortlist is 'writing at its best'](https://www.npr.org/2026/09/22/nx-s1-5977872/booker-prize-shortlist-2026)
+*   [New DNA analysis adds evidence Jefferson fathered children with Sally Hemings](https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian)
+*   [For Hollywood agent Ari Emanuel, success is all about 'being relentless'](https://www.npr.org/2026/09/22/nx-s1-5692712/ari-emanuel-roll-the-calls-memoir)
+*   [A new book by Princess Diana's brother prompts war of words with King Charles III](https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book)
+*   [A new cookbook pays tribute to two New Orleans staples — 'Rhythm & Roux'](https://www.npr.org/2026/09/20/nx-s1-5940782/cookbook-rhythm-and-roux-brian-landry-peter-harris)
