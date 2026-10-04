@@ -421,3 +421,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [For Hollywood agent Ari Emanuel, success is all about 'being relentless'](https://www.npr.org/2026/09/22/nx-s1-5692712/ari-emanuel-roll-the-calls-memoir)
 *   [A new book by Princess Diana's brother prompts war of words with King Charles III](https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book)
 *   [A new cookbook pays tribute to two New Orleans staples — 'Rhythm & Roux'](https://www.npr.org/2026/09/20/nx-s1-5940782/cookbook-rhythm-and-roux-brian-landry-peter-harris)
+
+
+## Updates (2026-10-04)
+*   [No one expected Leo to be pope — except everyone who knew him as 'Bob'](https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt)
+*   [10 books we are looking forward to this fall](https://www.npr.org/2026/10/02/nx-s1-5983820/what-to-read-books-fiction-nonfiction)
+*   [Mahmoud Khalil on his detention by ICE: 'It is a stain on the U.S. consciousness'](https://www.npr.org/2026/09/29/nx-s1-5984548/mahmoud-khalil-columbia-ice-palestine)
+*   [Meet the 20 scholars and artists who've just won MacArthur Fellowships](https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows)
+*   [How to hide your spending habits from retailers (so you don't get ripped off)](https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert)
+*   [Kyle MacLachlan says he was David Lynch's 'submersible' into dark places](https://www.npr.org/2026/09/28/nx-s1-5982797/kyle-maclachlan-david-lynch-fictional-selves)
+*   [I didn't think 'Pachinko' could be topped. Then I read 'American Hagwon'](https://www.npr.org/2026/09/28/nx-s1-5982798/american-hagwon-min-jin-lee-review)
+*   ['End Times Fascism' looks at supremacist groups uniting around end-of-the-world ideas](https://www.npr.org/2026/09/28/nx-s1-5968447/end-times-fascism-naomi-klein-astra-taylor-review)
+*   [Laleh Khadivi's new novel asks how well we know our mothers](https://www.npr.org/2026/09/27/nx-s1-5978855/laleh-khadivis-new-novel-asks-how-well-we-know-our-mothers)
