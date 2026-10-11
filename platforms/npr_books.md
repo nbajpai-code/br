@@ -433,3 +433,15 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [I didn't think 'Pachinko' could be topped. Then I read 'American Hagwon'](https://www.npr.org/2026/09/28/nx-s1-5982798/american-hagwon-min-jin-lee-review)
 *   ['End Times Fascism' looks at supremacist groups uniting around end-of-the-world ideas](https://www.npr.org/2026/09/28/nx-s1-5968447/end-times-fascism-naomi-klein-astra-taylor-review)
 *   [Laleh Khadivi's new novel asks how well we know our mothers](https://www.npr.org/2026/09/27/nx-s1-5978855/laleh-khadivis-new-novel-asks-how-well-we-know-our-mothers)
+
+
+## Updates (2026-10-11)
+*   [Latest in the 'Divergent' universe finds a different  Tris](https://www.npr.org/2026/10/09/nx-s1-5991459/divergent-sixth-faction-review)
+*   [White House correspondent April Ryan reflects on reporting while under attack](https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack)
+*   [Poet and essayist Anne Carson wins 2026 Nobel Prize in literature](https://www.npr.org/2026/10/08/nx-s1-5984350/nobel-prize-in-literature-anne-carson)
+*   [Author Tomi Adeyemi contends with reality in her new book, 'The Siren'](https://www.npr.org/2026/10/07/nx-s1-5944223/author-tomi-adeyemi-contends-with-reality-in-her-new-book-the-siren)
+*   [Jennifer Welch isn't holding back on Trump, Democrats or political division](https://www.npr.org/2026/10/07/nx-s1-5709016/jennifer-welch-not-today-fascists-book)
+*   ['Here I am, my full, authentic self': Murray Hill charts his own course in 'Showbiz!'](https://www.npr.org/2026/10/06/nx-s1-5991916/murray-hill-somebody-somewhere-showbiz)
+*   [Here are the finalists for the 2026 National Book Awards](https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists)
+*   [Michael Douglas on life in the limelight: 'Being yourself on screen is not easy'](https://www.npr.org/2026/10/05/nx-s1-5989385/michael-douglas-on-life-in-the-limelight-being-yourself-on-screen-is-not-easy)
+*   [Ayad Akhtar's 'The Radiance' addresses provocative subjects head-on](https://www.npr.org/2026/10/05/nx-s1-5985795/ayad-akhtar-the-radiance-review)
