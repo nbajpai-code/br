@@ -445,3 +445,14 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [Here are the finalists for the 2026 National Book Awards](https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists)
 *   [Michael Douglas on life in the limelight: 'Being yourself on screen is not easy'](https://www.npr.org/2026/10/05/nx-s1-5989385/michael-douglas-on-life-in-the-limelight-being-yourself-on-screen-is-not-easy)
 *   [Ayad Akhtar's 'The Radiance' addresses provocative subjects head-on](https://www.npr.org/2026/10/05/nx-s1-5985795/ayad-akhtar-the-radiance-review)
+
+
+## Updates (2026-10-18)
+*   [Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group](https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support)
+*   [Anne Rice's 'Interview with the Vampire' turns 50](https://www.npr.org/2026/10/16/nx-s1-6003613/anne-rices-interview-with-the-vampire)
+*   ['Luna, Phoenix, Queen' is a masterfully plotted, gorgeously moving novel](https://www.npr.org/2026/10/15/nx-s1-6003493/luna-phoenix-queen-julie-orringer-review)
+*   [Why should the CIA should spy on companies abroad?](https://www.npr.org/2026/10/14/nx-s1-5996830/why-should-the-cia-should-spy-on-companies-abroad)
+*   [Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'](https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar)
+*   ['New Yorker' cartoonists admit to having 'The Two Saddest Kitchens'](https://www.npr.org/2026/10/14/nx-s1-5996628/two-saddest-kitchens-review-roz-chast-jason-adam-katzenstein)
+*   [Reality star Collin Gosselin on the trauma of his off-camera childhood & new memoir](https://www.npr.org/2026/10/13/nx-s1-5863491/reality-star-collin-gosselin-on-the-trauma-of-his-off-camera-childhood-new-memoir)
+*   [Writer Yiyun Li lost both of her sons. When words fell short, she turned to music](https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night)
