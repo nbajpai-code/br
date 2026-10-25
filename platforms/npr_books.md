@@ -456,3 +456,12 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   ['New Yorker' cartoonists admit to having 'The Two Saddest Kitchens'](https://www.npr.org/2026/10/14/nx-s1-5996628/two-saddest-kitchens-review-roz-chast-jason-adam-katzenstein)
 *   [Reality star Collin Gosselin on the trauma of his off-camera childhood & new memoir](https://www.npr.org/2026/10/13/nx-s1-5863491/reality-star-collin-gosselin-on-the-trauma-of-his-off-camera-childhood-new-memoir)
 *   [Writer Yiyun Li lost both of her sons. When words fell short, she turned to music](https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night)
+
+
+## Updates (2026-10-25)
+*   [The lingering legacies of 'The Sun Also Rises' 100 years on](https://www.npr.org/2026/10/23/nx-s1-5974093/the-lingering-legacies-of-the-sun-also-rises-100-years-on)
+*   ['The Savage Mind' author says America's violent past is embedded in its present](https://www.npr.org/2026/10/20/nx-s1-6007849/the-savage-mind-author-says-americas-violent-past-is-embedded-in-its-present)
+*   ['Brother of the More Famous Jack' finds its way to a new generation of readers](https://www.npr.org/2026/10/20/nx-s1-6007701/brother-of-the-more-famous-jack-review)
+*   [B.J. Novak says his new children's book is 'silly but not outrageous'](https://www.npr.org/2026/10/20/nx-s1-5806332/bj-novak-the-little-book-with-no-pictures-toddlers)
+*   [If you have the scratch, they have the scares](https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares)
+*   ['From socialite to shopgirl': American Girl Samantha gets a new story](https://www.npr.org/2026/10/18/nx-s1-5711243/american-girl-40-samantha-fiona-davis)
