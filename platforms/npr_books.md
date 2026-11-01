@@ -465,3 +465,13 @@ Updates from [NPR Books](https://www.npr.org/books/).
 *   [B.J. Novak says his new children's book is 'silly but not outrageous'](https://www.npr.org/2026/10/20/nx-s1-5806332/bj-novak-the-little-book-with-no-pictures-toddlers)
 *   [If you have the scratch, they have the scares](https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares)
 *   ['From socialite to shopgirl': American Girl Samantha gets a new story](https://www.npr.org/2026/10/18/nx-s1-5711243/american-girl-40-samantha-fiona-davis)
+
+
+## Updates (2026-11-01)
+*   [Kazuo Ishiguro on 'Klara and the Sun' and writing novels about the future](https://www.npr.org/2026/10/30/nx-s1-6022105/kazuo-ishiguro-on-klara-and-the-sun-and-writing-novels-about-the-future)
+*   [New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway](https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror)
+*   [Romantasy fans turn out for 'Midnight Maas' release event](https://www.npr.org/2026/10/27/nx-s1-6011109/acotar-a-court-of-splintered-harmony-sarah-j-maas)
+*   [These 'Seven Stories About Tammy' add up to one brilliant piece of writing](https://www.npr.org/2026/10/26/nx-s1-6017155/seven-stories-about-tammy-elizabeth-mccracken-review)
+*   ['New Yorker' cartoonists confess to the horrors lurking in their kitchens](https://www.npr.org/2026/10/26/nx-s1-6017750/roz-chast-jason-adam-katzenstein)
+*   [What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending](https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending)
+*   [In this new kids' book, it's 'Snow Geese Season' for a little boy and his Pop](https://www.npr.org/2026/10/25/nx-s1-5871193/snow-geese-season-angela-burke-kunkel-eb-goodale)
